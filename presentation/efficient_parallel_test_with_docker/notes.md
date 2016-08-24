@@ -6,5 +6,8 @@ So at codeship if you're not familiar with us, with CI and CD accompany we focus
 
 Aside from that I'm a docker captain and you may have heard some docker captain charter. Maybe even met some mysterious creatures called docker captains. So we are meant to be kind of representation of the docker community. Lots of us have been working with docker for a very very long time.
 
-If you are a newbie to docker. We would love to talk to you any questions that you have. No question is too simple and so please find us. A lot of us are wearing black hoodies that have little darker seagulls on them that's the captain marker.
-1:17
+If you are a newbie to docker. We would love to talk to you any questions that you have. No question is too simple and so please find us. A lot of us are wearing black hoodies that have little darker seagulls on them that's the captain marker. So feel free to say hi to us.
+
+Before I was that coach, I worked for a really small research and development company. our research and development team are part of the Century Link which some of you might know is a big telco provider and they wanted to have some senior engineers working on really cool projects.
+
+-->1:35
