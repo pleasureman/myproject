@@ -18,4 +18,41 @@ So let's get started simply by thinking about what it is we want to build in the
 
 -->2:42
 
-So that's the goal of what I'm going to be trying to build and
+So that's the goal of what I'm going to be trying to build. And We'll talk about the different ways that we can build this platform using docker and using LXC. So we want to be able to have full control over our testing environment and then be able to run tests quickly in parallel. And why do we want to do this? There's a couple of reasons. The most probably the most immediate one that comes to mind is that you just don't want to spend so much time waiting for your builds to build.
+
+You want to be able to not only deploy your code to production fastest so that you have your best code in front of your customers immediately as soon as possible. And on the other side of that if something does go wrong you want to be alerted of that sooner so that you can correct your course(???), fix the mistake and then get moving and not have to worry about shipping bad code production or waiting really long for your feedback cycles.
+
+If you still don't think automated testing or software testing in general is worth your time, this talk may not be for you and please
+come and see me like after class in the coaches booth and we can talk about her like testing in general not as an employee of CI or CD accompany but just like as a software professional.
+
+I would love to talk to you about why you think testing is is not important. That wasn't a threat I promise and very friendly. Uh-huh. So we want to have really short feedback cycles and and on the other side we want to be able to have full autonomy over every single thing that's going to run during our automated testing steps.
+
+So this means when the tasks are run, what services are run, how the dependencies are managed. Everything that you could possibly imagine related automated testing steps I want absolute full control. If we think about why and then what Solomon said this morning about eliminating the friction in the development cycle. That's really what we're trying to do here so parallel testing is just one way that we can eliminate friction in the development cycle and kind of make everything just works so that you don't have to worry about it.
+
+And we'll take this idea of a parallel testing platform, a couple different places that you might use it. So as I mentioned codeship is a hosted solution you can maybe have your own CI or CD solution those are places you could use a parallel testing platform. You can certainly also use it locally and demo using it locally as well.
+
+So I like to always run my tests before I push anything to even a feature branch. Some of my colleagues are some people I worked with in the past prefer to rely on CI or CD to run builds for them. It doesn't matter whatever you prefer as long as you're running tests.
+
+So when I run my tests locally before pushing things up I want them to run really really fast.
+
+85
+00:05:15,870 --> 00:05:19,890
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
