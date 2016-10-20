@@ -120,3 +120,240 @@ Jared Richardson, Agile Artisans
 
 Exploring Usability Testing for Mobile and Web Technologies
 Rob Sabourin, amibug.com
+
+Risk-Based Testing: Everyone’s talking about it, but how many are actually doing it?
+Huw Price, CA Technologies
+
+Lessons Learned in Leadership: Give Your Team the Edge
+Selena Delesie, Delesie Solutions
+
+Engineering Trust in Complex Systems
+Casey Rosenthal, Netflix
+
+One Touch Testing
+Anant Hariharan, Cognizant Technology Solutions
+
+Load Testing Best Practices: 3 Use Cases Every Company Should Run
+Troy Presley, Apica System
+
+Next Generation Lifecycle Automation and Business Assurance
+Sarat Addanki, Prolifics
+
+The Path to Test Leadership: A Road Less Traveled
+Tariq King, Ultimate Software
+
+Testing in the Dark
+Rob Sabourin, amibug.com
+
+Automated Testing: Go Beyond the Basics
+Jim Holmes, Guidepost Systems
+
+Testing in an Agile World: The Current State and Future Possibilities
+Nikhil Kaul, SmartBear Software
+
+Testing in a Continuous Delivery Pipeline: Faster, Better, Cheaper
+Gene Gotimer, Coveros, Inc.
+
+IoT Software Testing Challenges: The IoT World Is Really Different
+Jon Hagar, Grand Software Testing
+
+How to Conquer Agility Leveraging Analytics on Automation Data?
+Harshal Vora, Infostretch
+
+Make Continuous Testing Work: Explore and Automate
+Dr. Gerd Weishaar, Tricentis
+
+Early Performance Testing
+Eric Proegler, SOASTA
+
+Why Testers Can’t Test: How Alaska Airlines Solves the Test Environment Dilemma
+Ryan Papineau, Alaska Airlines
+Spencer DeBrosse, Parasoft
+
+QA Transformation Through Lifecycle Virtualization: 5 Technologies to Protect Your Brand and Your Business
+Theresa Lanowitz, voke, inc.
+
+The Art of People Facilitation: Servant Leadership and Team Dynamics
+Robert Woods, MATRIX Resources
+
+Full Stack Testing of Node.js Applications
+Stacy Kirk, QualityWorks Consulting Group, LLC
+
+Adaptive Automation: Tests that Recover Instead of Failing
+Scott Miles, Aconex
+
+Agile Testing at Etsy: How and Why It Works
+Arylee McSweaney, Etsy
+
+The Journey to Continuous Testing
+Adam Auerbach, Capital One
+
+Become a Mindful Tester: Eliminate the Clutter, Weather Any Storm
+Francie Van Wirkus, Francie Van Wirkus
+
+API Virtualization ... Why, When and How
+Temil Sanchez, SmartBear Software
+
+How to Get Intelligent Automated Testing With Real-World Test Data Management
+Dale Ellis, TurnKey Solutions
+
+Learn how Kraft Heinz Company overcame the challenge of having one automation framework that spans both ERP and non-ERP technologies!
+Aaron Katz, The Kraft Heinz Company
+Antara Pal, Infosys Limited
+
+Virtually Speaking: Leading Distributed Test Teams
+Willie Smith, UPS
+
+Design for Testability in Practice
+Nir Szilagyi, PayPal
+
+Go Test Yourself: A Self-Testing Automation Pattern
+Prakash Karaka, Amazon
+
+Agile Testing for Embedded and IoT Software Development
+Thomas Stiehm, Coveros, Inc.
+
+A DevOps Primer: Whole Team Approaches for Better Software Quality
+Marianne Hollier, IBM
+
+It’s Time to Automate Your Exploratory Testing
+Jim Trentadue, Original Software
+
+
+Lightning Strikes the Keynotes
+Lee Copeland, TechWell Corp.
+
+Panel Discussion on Bridging the Gap Between the Digital and Physical Worlds with QA
+Imran Shaikh, Rogers
+Rajesh Bala, Tata Consultancy Services
+Prasad Mk, TCS
+
+Transforming Test for DevOps: Insights from Alaska Airlines, Capital One, CareFirst, Comcast
+Ryan Papineau, Alaska Airlines
+Adam Auerbach, Capital One
+Mike Puntumapanitch, CareFirst
+Sujal Dalia, Comcast, Parasoft
+
+Optimize Your Test Automation to Deliver More Value
+Mary Thorn, Ipreo
+
+Best Practices for Delivering Quality Responsive Web Apps Across All Digital Platforms
+Sveta Kostinsky, Perfecto
+
+Load Testing with eggPlant Performance: Live Demonstration and Q&A
+Tom Miseur, TestPlant
+
+Outlasting the Digital Storm: Survival Guide for QA Function
+Rajesh Bala, Tata Consultancy Services
+
+What Time Is It Over There? Managing Your Global QA Team
+Elizabeth Wisdom, Ulta Beauty
+
+Making the Move to Behavior-Driven Development
+Kevin Dunne, QASymphony
+
+Automated Testing Using Selenium
+Jin Reck, Mutual of Omaha Insurance
+
+Seven Steps to Pragmatic Mobile Testing
+Tom Chavez, SOASTA
+
+Understanding Complex Web Performance Measurement
+Parvez Ahammad, Instart Logic
+
+T-Shaped People: Time to Get in Shape for Your Testing Future
+Mary Thorn, Ipre
+
+Automated Testing Made Awesome with Sauce Labs
+Kevin Berg, Sauce Labs
+
+Improve your Mobile Testing Strategy with Continuous Delivery
+Earl Adona, Mobile Labs
+
+Think you can just ''s‘Test’ that API? Think again…
+Jonathon Wright, CA Technologies
+
+Testing the Magic at Walt Disney Imagineering
+Janna Loeffler, The Walt Disney Company
+
+Agile Strategies for Traditional Software Development Teams
+Melanie Drake, SAS
+
+Get a Handle on Your Test Data—Starting Now
+Paul Merrill, Beaufort Fairmont
+
+Three Keys to Mobile Testing for Real User Conditions
+Carlo Cadet, Perfecto Mobile
+
+Agile Testing Process Analytics: From Data to Insightful Information
+Jonathan Alexander, QA Symphony
+
+The Role of Testers as Requirements Dealers
+Jyothi Rangaiah, Independent Test Consultant
+
+Shifting Left – Evolution of Automation
+Michael Faulise, tap | QA
+
+ZAPTEST – The Game Changer!
+Alex Chernyak, ZAPTEST
+
+Kick-Start Your Automation Program with Build Acceptance Automation
+Rachel Obstler, Keynote Mobile Testing | SIGOS
+
+How to Deliver Secure, High Quality Test Data Faster Than Ever Before
+Matthew Yeh, Delphix
+Brett Stevens, Delphix
+
+Deliver an Exceptional Mobile User Experience in 5 Minutes
+Archie Roboostoff, Micro Focus
+
+The Four V’s of Big Data Testing: Variety,Volume, Velocity, and Veracity
+Jaya Bhagavathi Bhallamudi, Tata Consultancy Services
+
+Nonfunctional Testing: Examine the Other Side of the Coin
+Balaji Arunachalam, Intuit, Inc.
+
+Comprehensive Performance Testing: From Early Dev to Live Production
+Brad Stoner, AppDynamics
+
+The Boss Chose the Cloud: What Does that Mean for You?
+Martin Pol, Polteq Testing Services B.V.
+Jeroen Mengerink, Polteq Testing Services B.V.
+
+Story Time for Testers
+Isabel Evans, Independent Consultant
+
+A Day in the Life of a Test Architect
+Lee Hawkins, Dell Software
+
+Improving Quality and Efficiency in Testing by Making Test Data Part of DevOps
+Manish Gupta, Informatica
+
+Accessibility Testing: Taming the Beast
+Dylan Barrell
+
+Big Data, Big Trouble: Getting into the Flow of Hadoop Testing
+Maryam Umar, Hotels.com
+
+Smart Combinatorial Testing
+Ingo Philipp, Tricentis
+
+Become a Performance Diagnostics Hero
+Andreas Grabner, Dynatrace
+
+Transform Your Cloud Validation Strategy from Cloudy to Clear
+Vandana Viswanathan, Cognizant Technology Solutions
+
+The Tester’s Role: Balancing Technical Acumen and User Advocacy
+Melissa Tondi, ShopAtHome.com
+
+Exploratory Testing and Automated Testing: Create a Healthy Relationship
+Dawn Jardine, Razorfish
+
+Take Charge of Your Testing Career: Bring Your Skills to the Next Level
+Jared Richardson, Agile Artisans
+
+The Workshop on Regulated Software Testing (WREST)
+John McConda, Moser Consulting
+Griffin Jones, Congruent Compliance
+
