@@ -15,3 +15,7 @@ My second problem was that
 I as test director for Chrome and Chrome OS (a position now occupied by
 one of my former directs) had insights into only a slice of the Google testing
 solution.
+
+### I wish I had not waited so long to write it.的意思是“希望没有托太长的时间”还是“真希望我本没有等待这么长的时间来写它，表示实际上已经等了很长的时间”
+Six months later, the book was done and I wish I had not
+waited so long to write it.
