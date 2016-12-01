@@ -64,3 +64,11 @@ much of our source code is open to external scrutiny; lots of it is legacy; we
 face regulatory reviews; our code runs in hundreds of countries and in many
 different languages, and on top of this, users expect software from Google to
 be simple to use and to “just work.”
+
+### parts 可数？
+Perhaps there are parts of it that will
+work in other organizations. 
+
+### parcel为什么没有冠词？
+Test isn’t a separate practice; it’s part and parcel of the development
+process itself.
