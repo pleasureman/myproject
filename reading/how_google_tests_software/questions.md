@@ -19,3 +19,37 @@ solution.
 ### I wish I had not waited so long to write it.的意思是“希望没有托太长的时间”还是“真希望我本没有等待这么长的时间来写它，表示实际上已经等了很长的时间”
 Six months later, the book was done and I wish I had not
 waited so long to write it.
+
+### improved upon中upon的作用是?
+Techniques proven ineffective at
+former employers were either abandoned or improved upon by Google’s
+culture of innovation.
+
+### once在这里的作用是？
+Google testers are
+willing to try anything once but are quick to abandon techniques that do
+not prove useful.
+
+### 为什么不是with each other？
+At times, testing is interwoven with development to the point that the two
+practices are indistinguishable from each other, and at other times, it is so
+completely independent that developers aren’t even aware it is going on.
+
+### all this despite中this的意思是?
+We
+can nearly produce an operating system within the boundaries of a single
+calendar year; we release client applications such as Chrome every few weeks;
+and web applications change daily—all this despite the fact that our start-up
+credentials have long ago expired.
+
+###  对于do exactly that，为什么不是exactly do that或do that exactly?
+In this environment, it is almost easier to
+describe what testing is not—dogmatic, process-heavy, labor-intensive, and
+time-consuming—than what it is, although this book is an attempt to do
+exactly that.
+
+### out there的意思是？
+The size and complexity of Google’s software
+testing problem are as large as any company’s out there.
+
+
