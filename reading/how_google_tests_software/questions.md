@@ -72,3 +72,13 @@ work in other organizations.
 ### parcel为什么没有冠词？
 Test isn’t a separate practice; it’s part and parcel of the development
 process itself.
+
+### escalation的真实意思
+If a
+product breaks in the field, the first point of escalation is the developer who
+created the problem, not the tester who didn’t catch it.
+
+### you build it, you break it的意思是？
+In order for the “you build it, you break it” motto to be real (and kept real
+over time), there are roles beyond the traditional feature developer that are
+necessary.
