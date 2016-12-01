@@ -52,4 +52,15 @@ exactly that.
 The size and complexity of Google’s software
 testing problem are as large as any company’s out there.
 
+### industry vertical的意思是？
+From client operating
+systems, to web apps, to mobile, to enterprise, to commerce and social,
+Google operates in pretty much every industry vertical.
 
+### lots of it的意思是？
+Our software is big;
+it’s complex; it has hundreds of millions of users; it’s a target for hackers;
+much of our source code is open to external scrutiny; lots of it is legacy; we
+face regulatory reviews; our code runs in hundreds of countries and in many
+different languages, and on top of this, users expect software from Google to
+be simple to use and to “just work.”
