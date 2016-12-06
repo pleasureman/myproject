@@ -82,3 +82,18 @@ created the problem, not the tester who didn’t catch it.
 In order for the “you build it, you break it” motto to be real (and kept real
 over time), there are roles beyond the traditional feature developer that are
 necessary.
+
+### there的作用是？
+Testers
+are there to make developers more productive and a large part of that productivity
+is avoiding re-work because of sloppy development.
+
+### push toward release intensifies的主谓宾（推进产品发布）
+They also organize the testing work of SWEs and
+SETs, interpret test results, and drive test execution, particularly in the late
+stages of a project as the push toward release intensifies.
+
+
+
+
+
