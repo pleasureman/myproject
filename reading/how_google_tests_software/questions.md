@@ -102,4 +102,6 @@ When such bugs are rare, TEs can turn to the primary task
 of ensuring that the software runs common user scenarios, meets performance
 expectations, is secure, internationalized, accessible, and so on.
 
-
+### complete->completed; fit-and-finish什么意思？是“易用性”吗？
+In the push to ship, priorities often favor getting features
+complete and other fit-and-finish tasks over core quality.
