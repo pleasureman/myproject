@@ -93,7 +93,13 @@ They also organize the testing work of SWEs and
 SETs, interpret test results, and drive test execution, particularly in the late
 stages of a project as the push toward release intensifies.
 
+### in isolation如何翻译？
+From a quality standpoint, SWEs own features and the quality of those
+features in isolation.
 
-
+### is secure主谓宾是？
+When such bugs are rare, TEs can turn to the primary task
+of ensuring that the software runs common user scenarios, meets performance
+expectations, is secure, internationalized, accessible, and so on.
 
 
