@@ -131,3 +131,20 @@ It’s not as cowboy a process as it might sound at first glance.
 ### it if的意思是？
 The thought is that they will
 be unlikely to check in bad code it if impacts the ability to call home.
+
+### 主谓宾是？
+Mocks
+and fakes are stubs—substitutes for actual functions—that act as placeholders
+for dependencies that might not exist, are too buggy to be reliable, or
+too difficult to emulate error conditions.
+
+
+### Later的意思是后期还是之后？
+Later in the development
+cycle, TEs can execute medium tests either manually (in the event the
+test is difficult or prohibitively expensive to automate) or with automation.
+
+###  automate to中to的意思是？currently为什么不是current？
+The ongoing effort to automate to
+within the “last inch of the human mind” is currently the design spec for
+the next generation of test-engineering tools Google builds.
