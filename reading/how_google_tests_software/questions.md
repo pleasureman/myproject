@@ -105,3 +105,29 @@ expectations, is secure, internationalized, accessible, and so on.
 ### complete->completed; fit-and-finish什么意思？是“易用性”吗？
 In the push to ship, priorities often favor getting features
 complete and other fit-and-finish tasks over core quality.
+
+### not perceived need是否应为no perceived need
+Obviously, we can get it wrong, and we sometimes do,
+but in general, this creates a balance of resources against actual and not perceived
+need.
+
+### at once的意思是“一次”还是“马上”？
+One of the key ways Google achieves good results with fewer testers than
+many companies is that we rarely attempt to ship a large set of features at
+once.
+
+### while的意思是？
+It’s important to note here that when customers are
+paying for early versions, they have to be functional enough to make them
+worth their while.
+
+### 句子的主谓宾是？
+Just because it is an early version doesn’t mean it has to
+be a poor product.
+
+### 句子的主谓宾是？
+It’s not as cowboy a process as it might sound at first glance.
+
+### it if的意思是？
+The thought is that they will
+be unlikely to check in bad code it if impacts the ability to call home.
